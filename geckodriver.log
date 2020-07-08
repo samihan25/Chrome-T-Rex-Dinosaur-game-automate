@@ -46,3 +46,20 @@ JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=17016a25306c620
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1594237521058	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemblIlA"
+1594237525028	Marionette	INFO	Listening on port 34767
+1594237525071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chromedino.com/js/gdpr.js, line 1: SyntaxError: function statement requires a name
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=17016a25306c6206592db0b5b5ee505f, line 97: uncaught exception: Error: invalid version specified
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 53: uncaught exception: TagError: adsbygoogle.push() error: Page-level tag does not work inside iframes.
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=17016a25306c6206592db0b5b5ee505f, line 22: NS_ERROR_NOT_INITIALIZED: 
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1165:3
+
+1594237627266	Marionette	INFO	Stopped listening on port 34767
+1594237636062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile92kPY9"
+1594237640237	Marionette	INFO	Listening on port 39671
+1594237640282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://chromedino.com/js/gdpr.js, line 1: SyntaxError: function statement requires a name
+JavaScript error: https://connect.facebook.net/en_US/sdk.js?hash=17016a25306c6206592db0b5b5ee505f, line 97: uncaught exception: Error: invalid version specified
+1594238393974	Marionette	INFO	Stopped listening on port 39671
