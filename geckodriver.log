@@ -1,0 +1,6 @@
+1594375365028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileccm3tv"
+1594375369090	Marionette	INFO	Listening on port 46385
+1594375369143	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1594375374486	Marionette	INFO	Stopped listening on port 46385
